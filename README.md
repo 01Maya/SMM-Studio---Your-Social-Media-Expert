@@ -11,3 +11,5 @@ SMM Studio is a premium social media marketing landing page designed with a luxu
 
 ## 📝 Description
 
+SMM Studio is a fully responsive marketing agency landing page crafted for social media strategists, content creators, personal brands, and creative agencies. The design combines luxury-inspired typography, soft gradients, floral decorative elements, and clean layouts to create a memorable first impression.
+
