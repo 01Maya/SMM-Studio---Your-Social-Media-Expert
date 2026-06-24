@@ -21,7 +21,7 @@ const script = Great_Vibes({
 
 export const metadata: Metadata = {
   title: 'SMM Studio - Your Social Media Expert',
-  description: 'Premium social media strategy, content creation, and growth for luxury brands',
+  description: 'Premium social media strategy, content creation, and growth for luxury brands✨',
 }
 
 export const viewport: Viewport = {
