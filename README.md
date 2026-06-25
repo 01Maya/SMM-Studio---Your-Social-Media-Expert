@@ -1,4 +1,4 @@
-# 🌸 SMM Studio — Elegant Social Media Marketing Landing Page
+# 🌸 SMM Studio — Elegant Social Media Marketing Landing Page 🪄
 
 ## ✨ Overview
 
