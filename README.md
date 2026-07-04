@@ -21,7 +21,7 @@ SMM Studio is a fully responsive marketing agency landing page crafted for socia
 
 # 🚀 Features
 
-Fully Responsive Design  
+- Fully Responsive Design  
 Smooth Scroll Navigation to Sections  
 Framer Motion Slide-In & Fade-In Animations  
 Elegant Hover Effects  
