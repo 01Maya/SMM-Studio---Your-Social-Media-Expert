@@ -25,4 +25,4 @@ Fully Responsive Design
 Smooth Scroll Navigation to Sections  
 Framer Motion Slide-In & Fade-In Animations  
 Elegant Hover Effects  
-✅ Premium Editorial Typography  
+Premium Editorial Typography  
