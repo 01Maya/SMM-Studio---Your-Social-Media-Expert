@@ -29,4 +29,5 @@ SMM Studio is a fully responsive marketing agency landing page crafted for socia
 - Luxury Blue & Soft Cream Color Palette  
 - Flower Vase Background Decorative Elements 
 - Success Stories Metrics Section 
-- Interactive Service Cards  
+- Interactive Service Cards
+-  Smooth Section Reveal Animations  
