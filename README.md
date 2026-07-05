@@ -30,5 +30,5 @@ SMM Studio is a fully responsive marketing agency landing page crafted for socia
 - Flower Vase Background Decorative Elements 
 - Success Stories Metrics Section 
 - Interactive Service Cards
--  Smooth Section Reveal Animations
--  Mobile, Tablet & Desktop Friendly 
+- Smooth Section Reveal Animations
+- Mobile, Tablet & Desktop Friendly 
