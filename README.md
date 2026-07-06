@@ -39,6 +39,7 @@ SMM Studio is a fully responsive marketing agency landing page crafted for socia
 - ⚡ Next.js
 - 🎨 Tailwind CSS
 - ✨ Framer Motion
+- 🧩 shadcn/ui
 
 
 
