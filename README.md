@@ -43,7 +43,6 @@ Elegant hero section introducing the brand with luxury typography, engaging visu
 ### 💼 Services
 Showcases core service offerings through beautifully styled cards with pricing, descriptions, and interactive hover effects.
 
-
 ### 👩‍💻 About
 Introduces the agency with a personal brand story supported by layered editorial-style imagery and decorative elements.
 
@@ -58,14 +57,11 @@ Conversion-focused call-to-action section encouraging visitors to connect and st
 
 ---
 
-
-#  Preview
+# 💻 Preview
 
 https://smm-studio-social-media-expert.vercel.app/
 
 ---
-
-
 
  # 🛠️ Tech Stack
 
