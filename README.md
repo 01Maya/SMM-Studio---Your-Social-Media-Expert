@@ -50,6 +50,9 @@ Introduces the agency with a personal brand story supported by layered editorial
 ### ⚙️ Process
 Explains the workflow through a clean four-step process highlighting discovery, strategy, creation, and optimization.
 
+### 💬 Testimonials
+Displays positive client experiences through premium testimonial cards designed to build trust and credibility.
+
 
 
 
