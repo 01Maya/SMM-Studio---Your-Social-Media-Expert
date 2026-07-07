@@ -44,6 +44,8 @@ Elegant hero section introducing the brand with luxury typography, engaging visu
 Showcases core service offerings through beautifully styled cards with pricing, descriptions, and interactive hover effects.
 
 
+### 👩‍💻 About
+
 
 
 
