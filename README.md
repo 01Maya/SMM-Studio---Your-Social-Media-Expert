@@ -40,6 +40,8 @@ SMM Studio is a fully responsive marketing agency landing page crafted for socia
 ### 🏠 Home
 Elegant hero section introducing the brand with luxury typography, engaging visuals, and strong call-to-action buttons.
 
+### 💼 Services
+Showcases core service offerings through beautifully styled cards with pricing, descriptions, and interactive hover effects.
 
 
 
