@@ -53,6 +53,10 @@ Explains the workflow through a clean four-step process highlighting discovery, 
 ### 💬 Testimonials
 Displays positive client experiences through premium testimonial cards designed to build trust and credibility.
 
+### 📞 Contact
+Conversion-focused call-to-action section encouraging visitors to connect and start growing their brand.
+
+---
 
 
 
