@@ -45,6 +45,8 @@ Showcases core service offerings through beautifully styled cards with pricing, 
 
 
 ### 👩‍💻 About
+Introduces the agency with a personal brand story supported by layered editorial-style imagery and decorative elements.
+
 
 
 
