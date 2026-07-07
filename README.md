@@ -65,6 +65,7 @@ https://smm-studio-social-media-expert.vercel.app/
 
 # 📸 Screenshot
 
+<img width="2403" height="5874" alt="Image" src="https://github.com/user-attachments/assets/17101d88-5f0c-45e5-9709-1c7d4e7c8933" />
 
 ---
 
