@@ -82,6 +82,9 @@ https://smm-studio-social-media-expert.vercel.app/
 
 ### 1️⃣ Clone Repository
 
+```bash
+git clone https://github.com/yourusername/smm-studio.git
+```
 
 
 
