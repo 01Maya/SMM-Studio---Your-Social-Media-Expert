@@ -111,3 +111,10 @@ http://localhost:3000
 ```
 
 ---
+
+
+# 📄 License
+
+This project is intended for portfolio, agency showcase, educational, and commercial customization purposes.
+
+---
