@@ -88,4 +88,6 @@ git clone https://github.com/yourusername/smm-studio.git
 
 ### 2️⃣ Navigate to Project
 
-
+```bash
+cd smm-studio
+```
