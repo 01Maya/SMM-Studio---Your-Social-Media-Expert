@@ -97,3 +97,6 @@ cd smm-studio
 ```bash
 npm install
 ```
+
+### 4️⃣ Start Development Server
+
