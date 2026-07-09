@@ -100,3 +100,6 @@ npm install
 
 ### 4️⃣ Start Development Server
 
+```bash
+npm run dev
+```
