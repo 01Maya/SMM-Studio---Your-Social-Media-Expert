@@ -93,3 +93,7 @@ cd smm-studio
 ```
 
 ### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
