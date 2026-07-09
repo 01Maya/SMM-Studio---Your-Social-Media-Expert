@@ -35,6 +35,15 @@ SMM Studio is a premium social media marketing landing page designed with a luxu
 
 ---
 
+ # 🛠️ Tech Stack
+
+- ⚡ Next.js
+- 🎨 Tailwind CSS
+- ✨ Framer Motion
+- 🧩 shadcn/ui
+
+---
+
 # 📂 Sections
 
 ### 🏠 Home
@@ -66,15 +75,6 @@ https://smm-studio-social-media-expert.vercel.app/
 # 📸 Screenshot
 
 <img width="2403" height="5874" alt="Image" src="https://github.com/user-attachments/assets/17101d88-5f0c-45e5-9709-1c7d4e7c8933" />
-
----
-
- # 🛠️ Tech Stack
-
-- ⚡ Next.js
-- 🎨 Tailwind CSS
-- ✨ Framer Motion
-- 🧩 shadcn/ui
 
 ---
 
