@@ -91,3 +91,5 @@ git clone https://github.com/yourusername/smm-studio.git
 ```bash
 cd smm-studio
 ```
+
+### 3️⃣ Install Dependencies
