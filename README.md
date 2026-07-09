@@ -118,3 +118,5 @@ http://localhost:3000
 This project is intended for portfolio, agency showcase, educational, and commercial customization purposes.
 
 ---
+
+## 💙 Crafted with Strategy, Content, Creativity & Growth in Mind.
